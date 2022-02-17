@@ -11,10 +11,28 @@
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "0967aa01-0ac0-4256-8f38-80c0f0560def": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "8977d1f4-d54d-4821-aecf-aac5ac0d5940": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "0967aa01-0ac0-4256-8f38-80c0f0560def",
+          "8977d1f4-d54d-4821-aecf-aac5ac0d5940"
         ],
         "settings": {
         }
