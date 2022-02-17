@@ -1,5 +1,6 @@
 {
   "current": {
+    "ts_btn": "#fa0909",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
