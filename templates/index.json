@@ -194,7 +194,7 @@
     "1645087069baeccb6d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p class=\"ts_btn\"><\/p>",
+        "custom_liquid": "<style>\n.ts_btn {\ncolor:var(--ts_btn);\n}\n<\/style>\n<p class=\"ts_btn\">sadasdasdasdasdas<\/p>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
