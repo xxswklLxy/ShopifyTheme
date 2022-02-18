@@ -1,0 +1,20 @@
+{
+  "name": "shopifytheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxswklLxy/ShopifyTheme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxswklLxy/ShopifyTheme/issues"
+  },
+  "homepage": "https://github.com/xxswklLxy/ShopifyTheme#readme"
+}
