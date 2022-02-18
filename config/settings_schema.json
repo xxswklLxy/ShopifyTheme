@@ -1,8 +1,8 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Dawn",
-    "theme_version": "3.0.0",
+    "theme_name": "TS-Theme",
+    "theme_version": "1.0.0",
     "theme_author": "Shopify",
     "theme_documentation_url": "https:\/\/help.shopify.com\/en\/manual\/online-store\/themes",
     "theme_support_url": "https:\/\/support.shopify.com\/"
@@ -19,6 +19,13 @@
         "id": "colors_solid_button_labels",
         "default": "#FFFFFF",
         "label": "t:settings_schema.colors.settings.colors_solid_button_labels.label",
+        "info": "t:settings_schema.colors.settings.colors_solid_button_labels.info"
+      },
+      {
+        "type": "color",
+        "id": "ts_btn",
+        "default": "#FFFFFF",
+        "label": "btn_test",
         "info": "t:settings_schema.colors.settings.colors_solid_button_labels.info"
       },
       {
