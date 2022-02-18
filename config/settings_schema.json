@@ -23,6 +23,13 @@
       },
       {
         "type": "color",
+        "id": "ts_btn",
+        "default": "#FFFFFF",
+        "label": "btn_test",
+        "info": "t:settings_schema.colors.settings.colors_solid_button_labels.info"
+      },
+      {
+        "type": "color",
         "id": "colors_accent_1",
         "default": "#121212",
         "label": "t:settings_schema.colors.settings.colors_accent_1.label",
