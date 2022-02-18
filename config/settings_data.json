@@ -1,6 +1,5 @@
 {
   "current": {
-    "ts_btn": "#ea1010",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -8,32 +7,12 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
-            }
-          },
-          "0967aa01-0ac0-4256-8f38-80c0f0560def": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-1",
-              "link": ""
-            }
-          },
-          "8977d1f4-d54d-4821-aecf-aac5ac0d5940": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-1",
-              "link": ""
+              "color_scheme": "background-1"
             }
           }
         },
         "block_order": [
-          "announcement-bar-0",
-          "0967aa01-0ac0-4256-8f38-80c0f0560def",
-          "8977d1f4-d54d-4821-aecf-aac5ac0d5940"
+          "announcement-bar-0"
         ],
         "settings": {
         }
@@ -41,13 +20,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo_width": 90,
-          "logo_position": "top-center",
-          "menu": "main-menu",
-          "show_line_separator": true,
-          "enable_sticky_header": true,
-          "margin_bottom": 0
+          "logo_width": 90
         }
       },
       "footer": {
@@ -56,22 +29,18 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Info"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Our mission"
             }
           }
         },
@@ -81,16 +50,10 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
-          "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
-          "payment_enable": true,
-          "margin_top": 48,
-          "padding_top": 36,
-          "padding_bottom": 36
+          "margin_top": 48
         }
       },
       "main-password-header": {
@@ -103,10 +66,7 @@
         "settings": {
         }
       }
-    },
-    "content_for_index": [
-
-    ]
+    }
   },
   "presets": {
     "Default": {
